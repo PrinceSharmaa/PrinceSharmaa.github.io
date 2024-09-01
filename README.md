@@ -3,9 +3,11 @@
 Welcome to my GitHub portfolio! I'm Prince Sharma, a dynamic and results-driven data scientist with a strong foundation in advanced analytics, machine learning, and cybersecurity. My work is centered around leveraging data to drive impactful business optimizations and client-focused solutions.
 
 # 🌟 About Me
+
 I have extensive experience in applying machine learning, deep learning, and NLP techniques to a variety of use cases, from enhancing content monetization on platforms like YouTube to improving cybersecurity threat detection at a global scale. My goal is to continuously drive data-driven decisions that deliver measurable value to organizations.
 
 # 🛠️ Skills
+
 - **Programming Languages**: Python, Java, SQL, KQL
 - **Libraries**: Pandas, Numpy, Scikit-learn, Keras, Tensorflow, NLTK, spaCy, Matplotlib, Msticpy
 - **Tools and Platforms**: Microsoft Azure, Power BI, AWS, Tableau, GCP, Jira, Confluence
@@ -30,15 +32,18 @@ I have extensive experience in applying machine learning, deep learning, and NLP
   - Initiated "Project Envision," training and employing over 50 visually challenged individuals.
 
 # 🎓 Education
+
 - **Masters in Data Science (3.5/4)** - University of Glasgow, Scotland (Sept 2019 — Oct 2020)
 - **B.Tech – Information Technology (8.37/10)** - Vellore Institute of Technology, India (June 2015 — May 2019)
 
 # 🏆 Achievements
+
 - **Employee of the Month** - Ejam, June 2021
 - **Enactus India National Semi-Finalist** in Entrepreneurship Challenge, Oct 2018
 - **Best Software Engineer Intern** - HCL, June 2017
 
 # 📫 Connect with Me
+
 - [LinkedIn](https://www.linkedin.com/in/PrinceSharmaa)
 - [GitHub](https://github.com/princesharmaa)
 - [Topmate](https://topmate.io/prince_sharmaa)
