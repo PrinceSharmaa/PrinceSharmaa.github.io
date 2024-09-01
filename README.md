@@ -1,4 +1,4 @@
-Prince Sharma - Data Scientist
+# Prince Sharma - Data Scientist
 Welcome to my GitHub portfolio! I'm Prince Sharma, a dynamic and results-driven data scientist with a strong foundation in advanced analytics, machine learning, and cybersecurity. My work is centered around leveraging data to drive impactful business optimizations and client-focused solutions.
 
 🌟 About Me
@@ -11,16 +11,20 @@ Tools and Platforms: Microsoft Azure, Power BI, AWS, Tableau, GCP, Jira, Conflue
 Technologies: Machine Learning, Deep Learning, NLP, Generative AI, Predictive Analytics, Anomaly Detection
 💼 Experience
 Data Scientist - The Heineken Company (Jan 2023 — Present)
+
 Led initiatives that enhanced promotional campaign effectiveness by 15% through predictive modeling and market trend analysis.
 Implemented scalable data pipelines that reduced operational costs by 30%.
 Developed anomaly detection models, reducing cybersecurity risks by 20%.
 Data Scientist - Viewture (Jan 2022 — Dec 2022)
+
 Created a forecasting model for YouTube views, improving accuracy by 20%.
 Developed data-driven strategies leading to a 15% increase in average watch time and a 20% growth in subscriber base for clients.
 Data Scientist - Ejam (Aug 2020 — Dec 2021)
+
 Optimized advertising spend, leading to a 15% increase in ROI.
 Developed sales forecasting models, increasing revenue by 10% and reducing stockouts by 15%.
 Technical Analyst - Enactus (July 2017 — June 2019)
+
 Initiated "Project Envision," training and employing over 50 visually challenged individuals.
 🎓 Education
 Masters in Data Science (3.5/4) - University of Glasgow, Scotland (Sept 2019 — Oct 2020)
@@ -33,11 +37,3 @@ Best Software Engineer Intern - HCL, June 2017
 LinkedIn
 GitHub
 Topmate
-Feel free to customize this further to reflect any additional projects or experiences you'd like to highlight!
-
-
-
-
-
-
-
