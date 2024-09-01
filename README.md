@@ -1,4 +1,4 @@
-# Prince Sharma - Data Scientist
+# Data Scientist
 
 Welcome to my GitHub portfolio! I'm Prince Sharma, a dynamic and results-driven data scientist with a strong foundation in advanced analytics, machine learning, and cybersecurity. My work is centered around leveraging data to drive impactful business optimizations and client-focused solutions.
 
